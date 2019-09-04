@@ -4,7 +4,8 @@
   "description": "ES6 Project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,12 @@
   "bugs": {
     "url": "https://github.com/jaybar975/ES6-Project/issues"
   },
-  "homepage": "https://github.com/jaybar975/ES6-Project#readme"
+  "homepage": "https://github.com/jaybar975/ES6-Project#readme",
+  "devDependencies": {
+    "cssnano": "^4.1.10"
+  },
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "node-sass": "^4.12.0"
+  }
 }
