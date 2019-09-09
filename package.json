@@ -12,7 +12,7 @@
     "url": "git+https://github.com/jaybar975/ES6-Project.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Justin Aybar <jaybar975@west-mec.org>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jaybar975/ES6-Project/issues"
@@ -22,6 +22,7 @@
     "cssnano": "^4.1.10"
   },
   "dependencies": {
+    "create-react-app": "^3.1.1",
     "jquery": "^3.4.1",
     "node-sass": "^4.12.0"
   }
