@@ -1,12 +1,12 @@
 body {
     padding: 0;
     margin: 0;
-    background: #f2f6e9;
+    background: grey;
 }
 
 /* start of navigation bar */
 .navbar {
-    background: rgb(204, 204, 0)
+    background: rgb(204, 204, 0);
 }
 
 .nav-link,
@@ -62,7 +62,7 @@ body {
 }
 
 .description p {
-    color: black;
+    color: white;
     font-size: 1.3rem;
     line-height: 1.5; 
 }
@@ -108,21 +108,21 @@ body {
 }
 
 .features .btn {
-  background-color: darkgreen;
-  border: 1px solid darkgreen;
-  color: #fff;
+  background-color: white;
+  border: 1px solid white;
+  color: black;
   margin-top: 20px;
 }
 
 .features .btn:hover {
-  background-color: #333;
+  background-color: white;
   border: 1px solid #333;
 }
 /* end of form styles */
 
 /* start of footer styles */
 .footer-distributed{
-	background-color: #292c2f;
+	background-color: rgb(204, 204, 0);
 	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
 	box-sizing: border-box;
 	width: 100%;
@@ -141,13 +141,11 @@ body {
 }
 
 /* Footer left */
-
 .footer-distributed .footer-left{
 	width: 40%;
 }
 
 /* The company logo */
-
 .footer-distributed h3{
 	color:  #ffffff;
 	font: normal 36px 'Cookie', cursive;
